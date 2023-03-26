@@ -2,6 +2,10 @@
 # Editar en https://www.toptal.com/developers/gitignore?templates=c
 
 ### C ###
+
+#configuracion de vscode:
+*.vscode/
+
 # requisitos previos
 *.d
 
