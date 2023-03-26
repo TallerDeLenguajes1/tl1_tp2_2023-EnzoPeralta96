@@ -1,0 +1,7 @@
+Punto 2)
+Cuando creamos la rama opcion 2, al ejecutar el comando gitk --all
+se observo la rama Main con sus archivos tp2_1_1.c, readme.md y .gitignore. Ademas una bifurcación que seria la rama Opcion_2 con su archivo tp2_1_2.c.
+
+Luego de agregar el archivo respuestas en main, este se vio reflejado en la rama principal como ultimo archivo, y la rama Opcion_2 sin cambios.
+
+Y por ultimo, al realizar el merge, se observa la rama main como una unica rama en donde fue agregada  la rama Opcion_2.
